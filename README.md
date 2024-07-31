@@ -1,2 +1,2 @@
-# MovieStar-
+# MovieStar
 React Project
